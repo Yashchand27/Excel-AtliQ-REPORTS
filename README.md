@@ -1,6 +1,14 @@
+
+<div align="center">
+  <h1>AtliQ-Report</h1>
+</div>
+
+
+
+
 ## Sales Reports
 
-1.1. Market Performance (2019-2021)
+1.1. __Market Performance (2019-2021)__
 
 Overall Sales: Sales increased from $87.48 million in 2019 to $598.88 million in 2021.
 
@@ -11,7 +19,7 @@ Top Markets:
 * South Korea: $48.97 million in 2021, 8.9% below target.
 
 
-1.2. Customer Performance (2019-2021)
+1.2.__Customer Performance (2019-2021)__
 
 Top Customers:
 
@@ -24,16 +32,17 @@ Highest Growth Rates:
 * Electricalsquipo Stores: 435.3% growth from 2020 to 2021.
 * Chiptec: 622.0% growth from 2020 to 2021.
 
-## Finance Report
 
-2.1. Financial Performance Analysis
+Finance Report
+---
+2.1.__Financial Performance Analysis__
 
 * Total Sales Growth: The company's total sales have shown substantial growth, increasing by over 500% from 2019 to 2021.
 * Deviation from Targets:
   * Overall, the sales performance in 2021 was 9.2% below target.
   * Significant underperformance in markets like Poland (-18.1%) and Canada (-14.5%).
     
-2.2. Cost Analysis and Profit Margins
+2.2.__Cost Analysis and Profit Margins__
 
 * Cost Management: An analysis of cost management strategies and their impact on profit margins is essential to understand the financial health of AtliQ Hardware.
 * Profit Margins: Evaluate the profit margins across different regions and customer segments to identify areas with potential for cost optimization and improved profitability.
